@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:rgba(30, 30, 31, 0.7) url('../assets/TESYRED.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+}
+.miscosas {
+    background: rgb(38 18 18 / 50%);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 10px auto;
+}
+h1.title {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    margin: 10px;
+}
+p.texto {
+    margin: 20px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 2em;
+}
+p.img-centrado {
+    text-align: center;
+}
+img.img-pdp {
+    width: 20%;
+}
+.miscosas2 {
+    background: rgb(38 18 18 / 50%);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 10px auto;
+}
+img.img-juti {
+    width: 20%;
+}
+.miscosas3 {
+    background: rgb(38 18 18 / 50%);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 0 auto;
+}
+img.img-obj {
+    width: 20%;
+}
+ul.lista-ul {
+    margin: 20px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 2em;
+}
+.miscosas4 {
+    background: rgb(38 18 18 / 50%);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+img.img-ksg {
+    width: 10%;
+    padding: 10px;
+}
+img.img-emm {
+    width: 10%;
+    padding: 10px;
+}

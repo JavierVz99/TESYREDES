@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:rgba(30, 30, 31, 0.7) url('../assets/red.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+}
+.miscosas {
+    background: rgb(38 18 18 / 50%);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+h1.title {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    margin: 10px;
+}
+p.texto {
+    margin: 20px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 2em;
+}
+p.img-centrado {
+    text-align: center;
+}
+img.img-edi {
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+.miscosas2 {
+    background: rgba(237, 7, 7, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
