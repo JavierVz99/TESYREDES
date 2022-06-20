@@ -2,7 +2,7 @@
 error_reporting(0);
 function conexion($bd_config){
   try {
-    $conexion = new PDO('mysql:host=localhost;dbname='.$bd_config['db_name'],$bd_config['user'],$bd_config['pass']);
+    $conexion = new PDO('mysql:host=bsmuaku4qtaz0rptiirp-mysql.services.clever-cloud.com;dbname='.$bd_config['db_name'],$bd_config['user'],$bd_config['pass']);
     return $conexion;
   } catch (PDOException $e) {
     return false;
